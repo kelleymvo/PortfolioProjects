@@ -1,5 +1,5 @@
 # PortfolioProjects
-Hi! 
+Hi, I'm Kelley Vo!
 
 Welcome to my personal project as I explore COVID19 vaccination and death rates globally. 
 You can find my data visualizations here https://public.tableau.com/profile/kelley.mahal.vo#!/vizhome/COVID19ExplorationDashboard/Dashboard1?publish=yes
