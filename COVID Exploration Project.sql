@@ -1,4 +1,3 @@
-
 Select * 
 From PortfolioProject..CovidVaccinations
 Where continent is not null
